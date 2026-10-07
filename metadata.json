@@ -1,0 +1,6 @@
+{
+  "name": "4 Emperor Kaibon",
+  "description": "ระบบฝึกซ้อมข้อสอบภาษาอังกฤษแบบอุดรอยรั่วความผิดพลาด คลังเก็บสถิติ และเครื่องมือแนะแนววิเคราะห์เชิงสถิติล่าสุด",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
